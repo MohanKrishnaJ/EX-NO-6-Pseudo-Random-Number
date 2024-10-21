@@ -20,8 +20,8 @@ Print each generated random number.
 End the program.
 
 ## PROGRAM:
-## DEVELOPED BY : ESHWAR T
-## REGISTER NO. : 212223230054
+## DEVELOPED BY : MOHAN KRISHNA J
+## REGISTER NO. : 212223220060
 ```c
 #include <stdio.h>
 
